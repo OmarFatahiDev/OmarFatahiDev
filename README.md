@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi 👋, I'm Omar</b></h1>
+<h1 align="center" color="red"><b>Hi 👋, I'm Omar</b></h1>
 <h3 align="center">Enjoy Coding...</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfatahidev&theme=dracula&border_radius=0" alt="OmarFatahiDev" /></p>
