@@ -1,1 +1,5 @@
-![OmarFatahiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarFatahiDev&show_icons=true&theme=dracula&custom_title=OmarFatahiDev&show_owner=true&border_radius=0&)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFatahiDev&border_radius=0)](https://github.com/OmarFatahi/Django-Blog)[![Last Repository](https://github-readme-stats.vercel.app/api/pin/?username=OmarFatahiDev&repo=Django-Blog&border_radius=0)](https://github.com/OmarFatahiDev/Django-Blog)
+<h1 align="center">Hi 👋, I'm Omar</h1>
+<h3 align="center">Enjoy Coding...</h3>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfatahidev&theme=dracula&border_radius=0" alt="OmarFatahiDev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarfatahidev&show_icons=true&theme=dracula&locale=en&border_radius=0" alt="OmarFatahiDev" /></p>
