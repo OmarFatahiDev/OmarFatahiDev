@@ -1,3 +1,6 @@
+<h1 align="center">Hi there 👋, I'm Omar</h1>
+
+<h3 align="center">I'm a Back-end Developer, Bash Script User 💻</h3>
 
 ## 📈 GitHub Stats 
 
@@ -18,7 +21,7 @@
 
 - Django
 - Python
-- Script User
+- Bash Script User
 
 ## 💼 Technical Skills
 
