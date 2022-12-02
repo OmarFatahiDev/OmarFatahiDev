@@ -25,6 +25,7 @@
 
 ## 💼 Technical Skills
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=appveyorh&color=0000FF)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=appveyorh&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=appveyorh&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat-square&logo=appveyorh&color=336791)
