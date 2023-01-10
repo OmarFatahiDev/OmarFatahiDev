@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Omar</h1>
 
-<h3 align="center">a Back-end Developer 💻</h3>
+<h3 align="center">A Back-end Developer 💻</h3>
 
 ## 📈 GitHub Stats 
 
