@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Omar</h1>
 
-<h3 align="center">I'm a Back-end Developer, Bash Script User 💻</h3>
+<h3 align="center">I'm a Back-end Developer, Script User 💻</h3>
 
 ## 📈 GitHub Stats 
 
@@ -13,32 +13,22 @@
 </p>
 
 ## 🔭 I'm currently working on
-
-- My old projects (PyGuard)
-- Developers Group
+- idle 😴
 
 ## 🌱 I'm currently learning
 
 - Django
+- FastApi
 - Python
-- Bash Script User
+- CSS
+- JavaScript
+- ReactJs
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=appveyorh&color=0000FF)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=appveyorh&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=appveyorh&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat-square&logo=appveyorh&color=336791)
-![](https://img.shields.io/badge/Code-BashScript-informational?style=flat-square&logo=appveyorh&color=003B57)
-![](https://img.shields.io/badge/Code-Schema-informational?style=flat-square&logo=appveyorh&color=ff0000)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat-square&logo=appveyorh&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat-square&logo=appveyorh&color=1572B6)
-
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=appveyorh&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=appveyorh&color=181717)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=appveyorh&color=08448d)
+![](https://img.shields.io/badge/Code-FastApi-informational?style=flat-square&logo=appveyorh&color=F7DF1E)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat-square&logo=appveyorh&color=336791)
+![](https://img.shields.io/badge/Code-ScriptUser-informational?style=flat-square&logo=appveyorh&color=003B57)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat-square&logo=appveyorh&color=092e20)
+![](https://img.shields.io/badge/Code-DRF-informational?style=flat-square&logo=appveyorh&color=092e50)
